@@ -1,5 +1,4 @@
-import 'package:app_delivery_ui/models/product.dart';
-import 'package:app_delivery_ui/theme_and_state_management/presentation/theme.dart';
+import 'package:app_delivery_ui/theme_and_state_management/domain/models/product.dart';
 import 'package:app_delivery_ui/theme_and_state_management/presentation/widgets/delivery_bottom.dart';
 import 'package:flutter/material.dart';
 

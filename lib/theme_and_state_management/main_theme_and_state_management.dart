@@ -1,4 +1,3 @@
-import 'package:app_delivery_ui/theme_and_state_management/presentation/home/home_screen.dart';
 import 'package:app_delivery_ui/theme_and_state_management/presentation/splash/splash_screen.dart';
 import 'package:app_delivery_ui/theme_and_state_management/presentation/theme.dart';
 import 'package:flutter/material.dart';
